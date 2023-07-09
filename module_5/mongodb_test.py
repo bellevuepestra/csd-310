@@ -1,7 +1,4 @@
-print("Hello World")
-
 from pymongo.mongo_client import MongoClient
-from pymongo.server_api import ServerApi
 
 uri = "mongodb+srv://admin:admin@cluster0.4eilq7t.mongodb.net/?retryWrites=true&w=majority&tlsAllowInvalidCertificates=true"
 
